@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common-->
+    <color name="colorPrimary">#207800</color>
+    <color name="colorPrimaryDark">#205600</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorDefaultText">#000000</color>
+    <color name="colorButtonStroke">#20CD00</color>
+
+    <!--SurveyActivity-->
+    <color name="colorCloseButtonSolid">#555555</color>
+
+    <!--MainActivity-->
+    <color name="colorAppNameText">#207800</color>
+
+    <!--WritingActivity-->
+</resources>

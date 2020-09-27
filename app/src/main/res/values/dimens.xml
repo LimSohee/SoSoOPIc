@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common-->
+    <dimen name="title_text_size">16sp</dimen>
+    <dimen name="button_text_size">16sp</dimen>
+
+    <!--SurveyActivity-->
+    <dimen name="survey_activity_close_button_text_size">12sp</dimen>
+
+    <!--MainActivity-->
+    <dimen name="main_activity_left_right_padding">60dp</dimen>
+    <dimen name="main_activity_top_bottom_padding">30dp</dimen>
+    <dimen name="main_activity_button_side_margin">20dp</dimen>
+    <dimen name="main_activity_title_text_size">40sp</dimen>
+    <dimen name="main_activity_button_text_size">16sp</dimen>
+
+    <!--SurveyActivity-->
+    <dimen name="survey_activity_padding">20dp</dimen>
+
+    <!--WritingActivity-->
+    <dimen name="writing_activity_padding">20dp</dimen>
+    <dimen name="writing_activity_view_side_margin">20dp</dimen>
+    <dimen name="writing_activity_question_edittext_height">100dp</dimen>
+
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SoSoOPIc</string>
+
+    <!--Common-->
+    <string name="subject_title">■ 주제</string>
+    <string name="type_title">■ 유형</string>
+    <string name="question_title">■ 질문</string>
+    <string name="answer_title">■ 답변</string>
+
+    <!--MainActivity-->
+    <string name="main_activity_app_name">SoSo OPIc</string>
+    <string name="main_activity_survey_button_name">설문조사</string>
+    <string name="main_activity_writing_button_name">스크립트 쓰기</string>
+    <string name="main_activity_reading_button_name">스크립트 읽기</string>
+    <string name="main_activity_listening_button_name">스크립트 듣기</string>
+    <string name="main_activity_speaking_button_name">스크립트 말하기</string>
+    <string name="main_activity_practice_button_name">실전연습</string>
+
+    <!--SurveyActivity-->
+    <string name="survey_activity_add_button_name">추가</string>
+    <string name="survey_activity_cancel_button_name">취소</string>
+    <string name="survey_activity_save_button_name">저장</string>
+
+    <!--WritingActivity-->
+    <string name="writing_activity_cancel_button_name">취소</string>
+    <string name="writing_activity_complete_button_name">완료</string>
+</resources>
